@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-fx8j5c.shadowdiary.com/sitemap.xml
